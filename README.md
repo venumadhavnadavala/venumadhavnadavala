@@ -44,6 +44,10 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=venumadhavnadavala&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </div>
+<div align="center">
+  <img src="https://github.com/venumadhavnadavala/venumadhavnadavala/blob/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
+
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=venumadhavnadavala&color=brightgreen&style=flat-square&label=PROFILE+VIEWS)
